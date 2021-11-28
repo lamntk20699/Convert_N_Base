@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Convert N-Base</string>
+    <string name="input_null_message">Please input information</string>
+    <string name="input_wrong_base_message">Your input do not belong to</string>
+</resources>
